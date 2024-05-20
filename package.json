@@ -95,7 +95,7 @@
     "node": ">=14.0.0"
   },
   "dependencies": {
-    "mharj-jwt-util": "^0.5.1",
+    "mharj-jwt-util": "^0.6.0",
     "typed-emitter": "^2.1.0"
   },
   "peerDependencies": {
